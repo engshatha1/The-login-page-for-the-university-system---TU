@@ -1,7 +1,8 @@
 # The login page for the university system-TU
 used HTML and CSS.
+
 Simplified explanation of the code:
-• First you specify the page orientation and title of the CSS file in the header.
+  • First you specify the page orientation and title of the CSS file in the header.
 • Secondly, in the body, I open an instruction for the table and set the bounds to 0, then use thead and put the logo of the Taif University website using the class (center) to improve the size of the image quality, and on the left side, put the icons using the image with the hyperlinks to the home page and contact us and the language.
 • Third, I open a command in the second row tbody and merge the columns, after that I write unordered lists and use (dropdown) and (dropdowncontent) classes to speed up what is inside the list that is dropdown inside the list.
 • Fourth, in the third row, an image was placed and a class (center) was used to improve the image size and sharpness.
